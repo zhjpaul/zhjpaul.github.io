@@ -17,7 +17,7 @@
 title: 默默彳亍
 email: zhjpaul@gmail.com 
 
-baseurl: /blog
+baseurl:
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
